@@ -14,7 +14,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-# url: https://shw2018.github.io/
+# url: https://976b275a.hexo-blog-fly.pages.dev/
 url: https://sunhwee.com
 root: /
 permalink: :year/:month/:day/:title/
